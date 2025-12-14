@@ -21,10 +21,17 @@
 OpenAI -> GPT 
 
 GPT - > Generative Pre-trained Transformer
-
+## Tokenization
 Tokenization: User input ko  number main convert  krna 
 
 website : https://platform.openai.com/tokenizer , https://tiktokenizer.vercel.app/
+
+## Vector Embedding
+Sementic meaning of any words
+
+USA -> Trump
+Pakistan -> shehbaz sharif
+
 
 
 
