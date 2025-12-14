@@ -33,5 +33,8 @@ USA -> Trump
 Pakistan -> shehbaz sharif
 
 
+Based on the user input predict next word 
+
+
 
 
