@@ -2,6 +2,8 @@ import tiktoken
 
 
 
+# Tokenization: User input ko  number main convert  krna 
+
 encoder = tiktoken.encoding_for_model("gpt-4o-mini")
 
 

@@ -22,7 +22,7 @@ OpenAI -> GPT
 
 GPT - > Generative Pre-trained Transformer
 
-Tokenization: User input ko  number main represent krna 
+Tokenization: User input ko  number main convert  krna 
 
 website : https://platform.openai.com/tokenizer , https://tiktokenizer.vercel.app/
 
